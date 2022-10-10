@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Getlike.io
 // @namespace    https://github.com/EncodingLion
-// @version      9.0
+// @version      9.5
 // @description  Must Follow on github for these types of amazing projects ==>  https://github.com/EncodingLion
 // @author       EncodingLion
 // @match        https://getlike.io/en/tasks/*
